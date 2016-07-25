@@ -2,7 +2,7 @@ This is a git repository that functions as a Maven repo. If you add:
 
 ```
 repositories {
-    maven { url "https://raw.github.com/analyticspot/maven-sdk" }
+    maven { url "https://raw.githubusercontent.com/analyticspot/maven-sdk/master" }
 }
 ```
 
