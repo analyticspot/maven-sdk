@@ -43,5 +43,11 @@
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>main.common</groupId>
+      <artifactId>anxevent</artifactId>
+      <version>unspecified</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
